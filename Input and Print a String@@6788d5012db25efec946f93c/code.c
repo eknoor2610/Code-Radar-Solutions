@@ -4,5 +4,5 @@ int main()
 {
     char c[20];
     scanf("%s",&c);
-    printf("you entered: %s",c);
+    printf("You entered: %s",c);
 }
