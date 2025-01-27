@@ -3,6 +3,6 @@ int main()
 {
     char c;
     scanf("%c",&c);
-    printf("You removed: %c",c);
+    printf("You entered: %c",c);
    
 }
